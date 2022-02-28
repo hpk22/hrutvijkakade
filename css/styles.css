@@ -32,18 +32,18 @@ h3 {
 }
 
 .computer1 {
-  height: 90px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
 }
 
 .cricketimg {
-  height: 90px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
 }
 
 .travelling {
-  height: 90px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
 }
 
 .contactimg {
@@ -167,4 +167,5 @@ a:hover {
 }
 .copyright {
   padding: 25px 0;
+  font-size: 1rem;
 }
